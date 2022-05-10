@@ -1,5 +1,3 @@
-- 👋 Hola soy @1AgustinaRomero1, tengo 27 años y soy de Argentina 
-- 👀 Me interesa en aprender a programar, y lo estoy haciendo mediante diferentes comunidades de programacion como coderhood y frontendCafé y plataformas como Udemy.
-- 🌱 Estoy aprendiendo Javascript
-- Otras cosas sobre mi: soy enfermera graduada de la Universidad de Entre Rios, ejerzo actualmente. Fan de las peliculas de Marvel y amante de los deportes en equipo.
-- Saludos👋
+- 👋 Hola soy @1AgustinaRomero1, tengo 28 años y soy de Argentina 
+- Cursando Licenciatura en Sistemas en UNER
+- Siempre aprendiendo
